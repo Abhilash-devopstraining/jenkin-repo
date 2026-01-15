@@ -1,2 +1,2 @@
 print("Hello Jenkins!")
-#changed
+print("Code updated from GitHub")
